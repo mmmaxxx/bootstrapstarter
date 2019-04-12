@@ -1,15 +1,19 @@
 {
+  "name": "max_build",
+  "version": "0.1.0",
   "devDependencies": {
-    "gulp": "latest",
-    "gulp-sass": "latest",
-    "gulp-postcss": "latest",
-    "autoprefixer": "latest",
-    "cssnano": "latest",
-    "gulp-sourcemaps": "latest",
-    "browser-sync": "latest",
-    "gulp-plumber": "latest",
-    "gulp-notify": "latest",
-    "gulp-concat": "latest",
-    "gulp-rename": "latest"
+    "browser-sync": "^2.9.11",
+    "es6-promise": "^3.0.2",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-imagemin": "2.2.1",
+    "gulp-jshint": "^1.11.2",
+    "gulp-newer": "0.5.0",
+    "gulp-plumber": "1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.6.0",
+    "jshint-stylish": "^2.0.1"
   }
 }
